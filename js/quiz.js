@@ -21,11 +21,11 @@ const main = document.querySelector('main');
    - Store each answer in a variable
    - Keep track of the number of correct answers
 */
-const question01 = prompt("What is the name of the robot Miguel Built for his kids");
-const question02 = prompt("what is the name of the girl that inspired PancakeBot?");
-const question03 = prompt("What is the name of the sister of the girl that inspired PancakeBot?");
-const question04 = prompt("What was the first Pancake ever made that worked well with PancakeBot?");
-const question05 = prompt("What was the name of the first Maker Faire attended by PancakeBot?");
+const question01 = prompt("What is the name of that cool guy in Norway?");
+const question02 = prompt("What is the name of the awesome guy that invented the PancakeBot?");
+const question03 = prompt("What is the name of the guy that you had coffee once in a while?");
+const question04 = prompt("What is the name of the smartest ag engineer in the world?");
+const question05 = prompt("What is the name of the guy who sucks at programming but invented a pancake robot?");
 
 if (question01 === "Miguel") {
   correctAnswers += 1;
